@@ -13,7 +13,7 @@
 
 - 📝 Currently learning **ReactJS**
 
-- 👨🏻‍💻 I'm into **Front-end web-developemnt and a UI designing**
+- 👨🏻‍💻 I'm into **Front-end web-developemnt and Ui designing**
 
 - 📫 How to reach me **udaymohan41@gmail.com**
 
