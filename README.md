@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **udaymohan41@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16PQfVmu5R6NT_eGNkWET9RevaUbzufnB/view?usp=sharing](https://drive.google.com/file/d/16PQfVmu5R6NT_eGNkWET9RevaUbzufnB/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/udaymohan10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="udaymohan10" height="30" width="40" /></a>
