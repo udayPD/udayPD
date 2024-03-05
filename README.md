@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/udaymohan10" target="blank"><img src="https://img.shields.io/twitter/follow/udaymohan10?logo=twitter&style=for-the-badge" alt="udaymohan10" /></a> </p>
 
-- 🔭 I’m currently pursuing **B.tech in CSE(5th sem)**
+- 🔭 I’m currently pursuing **B.tech in CSE(6th sem)**
 
 - 🎓 **The Assam Kaziranga University,Jorhat**
 
