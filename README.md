@@ -11,7 +11,7 @@
 
 - 🎓 **The Assam Kaziranga University,Jorhat**
 
-- 📝 Currently learning **ReactJS**
+- 📝 Learning **ReactJS**
 
 - 👨🏻‍💻 I'm into **Front-end web-developemnt and Ui designing**
 
