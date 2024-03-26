@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/udaymohan10" target="blank"><img src="https://img.shields.io/twitter/follow/udaymohan10?logo=twitter&style=for-the-badge" alt="udaymohan10" /></a> </p>
 
-- 🔭 I’m currently working on [Backend-dev](https://youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige&si=_kqTksxTS02WRsvw)
+- 🔭 I’m currently working on [MERN](https://youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige&si=_kqTksxTS02WRsvw)
 
 - 👯 I’m looking to collaborate on **Web-based projects & Ui's for web and app based platform**
 
