@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uday Sankor Mohan</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/udayPD/udayPD/main/banner.jpeg"> </div>
+<!-- <div align="center"> <img src="https://raw.githubusercontent.com/udayPD/udayPD/main/banner.jpeg"> </div> -->
 <h3 align="center">Web-Developer | CP | Design(UI)</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
